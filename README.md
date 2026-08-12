@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="" width="128">
+  <img src="assets/banner.jpg" alt="" width="100%">
 </p>
 
 <h1 align="center">ArticleHelper</h1>
